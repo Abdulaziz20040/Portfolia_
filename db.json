@@ -1,0 +1,28 @@
+{
+  "category": [
+    {
+      "id": 1,
+      "name": "home",
+      "link": "hero",
+      "offset": -120
+    },
+    {
+      "id": 2,
+      "name": "about",
+      "link": "about",
+      "offset": -200
+    },
+    {
+      "id": 3,
+      "name": "skills",
+      "link": "skills",
+      "offset": -120
+    },
+    {
+      "id": 4,
+      "name": "contact",
+      "link": "contact",
+      "offset": -120
+    }
+  ]
+}
